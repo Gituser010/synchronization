@@ -1,0 +1,32 @@
+1: O 1: started
+2: O 2: started
+3: O 3: started
+9: O 1: going to queue
+4: H 1: started
+5: H 2: started
+10: O 2: going to queue
+6: H 3: started
+7: H 4: started
+11: O 3: going to queue
+12: H 1: going to queue
+13: H 1: creating molecule 1
+8: H 5: started
+14: H 2: going to queue
+15: H 3: going to queue
+16: H 2: creating molecule 1
+17: O 1: creating molecule 1
+18: H 4: going to queue
+19: H 5: going to queue
+molecule locked 
+20: H 1: molecule 1 created
+21: H 2: molecule 1 created
+22: O 1: molecule 1 created
+23: H 4: creating molecule 2
+24: H 3: creating molecule 2
+25: O 2: creating molecule 2
+molecule locked 
+26: H 4: molecule 2 created
+27: H 3: molecule 2 created
+28: O 2: molecule 2 created
+29: H 5: not enaught O or H
+30: O 3: not eough H
